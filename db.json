@@ -1,6 +1,3 @@
 {
-  "test":"Hello, World!",
-  "orders":[],
-  "products":[],
-  "users":[]
+  "test":"Hello, World!"
 }
