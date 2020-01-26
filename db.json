@@ -5,6 +5,7 @@
 			"userId": 101,
 			"orderDate": "26 / 1 / 2020",
 			"status": "delivered",
+			"shippedTo": "John Doe",
 			"products": [
 				{
 					"id": 11,
@@ -30,6 +31,7 @@
 			"userId": 111,
 			"orderDate": "26 / 1 / 2020",
 			"status": "delivered",
+			"shippedTo": "Jane Doe",
 			"products": [
 				{
 					"id": 17,
