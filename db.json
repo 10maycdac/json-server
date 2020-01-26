@@ -1,5 +1,5 @@
 {
-	"pastOrders": [
+	"orders": [
 		{
 			"id": 1,
 			"userId": 101,
@@ -9,6 +9,8 @@
 				{
 					"id": 11,
 					"name": "Maggie Masala Noodles 70gm",
+					"quantity": 2,
+					"price": 20,
 					"brand": "Nestle",
 					"imageurl": "https://www.chainmasala.com/459-large_default/maggi-masala-noodles-70g.jpg"
 				},
@@ -16,6 +18,8 @@
 					"id": 12,
 					"name": "Maggie Chicken Noodles 70gm",
 					"brand": "Nestle",
+					"quantity": 5,
+					"price": 20,
 					"imageurl": "https://newdaymart.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/5/05_1_3.jpg"
 				}
 			]
@@ -31,12 +35,16 @@
 					"id": 17,
 					"name": "Maggie Oats Noodles 70gm",
 					"brand": "Nestle",
+					"quantity": 2,
+					"price": 20,
 					"imageurl": "https://www.truebuyz.com/wp-content/uploads/2019/01/maggi-oats_2.jpg"
 				},
 				{
 					"id": 18,
 					"name": "Good Day Cookies Butter 100gm",
 					"brand": "Britannia",
+					"quantity": 10,
+					"price": 10,
 					"imageurl": "http://amasauda.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/r/britannia_good_day_butter_cookies.jpg"
 				}
 			]
