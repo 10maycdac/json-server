@@ -13,7 +13,7 @@
 					"quantity": 2,
 					"price": 20,
 					"brand": "Nestle",
-					"imageurl": "https://www.chainmasala.com/459-large_default/maggi-masala-noodles-70g.jpg"
+					"imgUrl": "https://www.chainmasala.com/459-large_default/maggi-masala-noodles-70g.jpg"
 				},
 				{
 					"id": 12,
@@ -21,7 +21,7 @@
 					"brand": "Nestle",
 					"quantity": 5,
 					"price": 20,
-					"imageurl": "https://newdaymart.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/5/05_1_3.jpg"
+					"imgUrl": "https://newdaymart.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/5/05_1_3.jpg"
 				}
 			]
 		},
@@ -39,7 +39,7 @@
 					"brand": "Nestle",
 					"quantity": 2,
 					"price": 20,
-					"imageurl": "https://www.truebuyz.com/wp-content/uploads/2019/01/maggi-oats_2.jpg"
+					"imgUrl": "https://www.truebuyz.com/wp-content/uploads/2019/01/maggi-oats_2.jpg"
 				},
 				{
 					"id": 18,
@@ -47,7 +47,7 @@
 					"brand": "Britannia",
 					"quantity": 10,
 					"price": 10,
-					"imageurl": "http://amasauda.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/r/britannia_good_day_butter_cookies.jpg"
+					"imgUrl": "http://amasauda.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/r/britannia_good_day_butter_cookies.jpg"
 				}
 			]
 		}
@@ -66,7 +66,7 @@
 					"quantity": 2,
 					"price": 40,
 					"brand": "The Coca-Cola Company",
-					"imageurl": "https://syldonfoods.co.uk/wp-content/uploads/2019/10/coca-cola.png"
+					"imgUrl": "https://syldonfoods.co.uk/wp-content/uploads/2019/10/coca-cola.png"
 				},
 				{
 					"id": 16,
@@ -74,7 +74,7 @@
 					"brand": "Nestle",
 					"quantity": 2,
 					"price": 20,
-					"imageurl": "https://res.sastasundar.com/incom/images/product/Maggi-Masala-Veg-Atta-Noodles-1560251060-10061481-1.jpg"
+					"imgUrl": "https://res.sastasundar.com/incom/images/product/Maggi-Masala-Veg-Atta-Noodles-1560251060-10061481-1.jpg"
 				}
 			]
 		},
@@ -92,7 +92,7 @@
 					"brand": "The Coca-Cola Company",
 					"quantity": 5,
 					"price": 60,
-					"imageurl": "https://myholyperogy.com/wp-content/uploads/2019/06/coca-cola-zero-1.jpg"
+					"imgUrl": "https://myholyperogy.com/wp-content/uploads/2019/06/coca-cola-zero-1.jpg"
 				},
 				{
 					"id": 20,
@@ -100,7 +100,7 @@
 					"brand": "Britannia",
 					"quantity": 20,
 					"price": 10,
-					"imageurl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
+					"imgUrl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
 				}
 			]
 		}
@@ -120,61 +120,61 @@
 			"id": 11,
 			"name": "Maggie Masala Noodles 70gm",
 			"brand": "Nestle",
-			"imageurl": "https://www.chainmasala.com/459-large_default/maggi-masala-noodles-70g.jpg"
+			"imgUrl": "https://www.chainmasala.com/459-large_default/maggi-masala-noodles-70g.jpg"
 		},
 		{
 			"id": 12,
 			"name": "Maggie Chicken Noodles 70gm",
 			"brand": "Nestle",
-			"imageurl": "https://newdaymart.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/5/05_1_3.jpg"
+			"imgUrl": "https://newdaymart.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/5/05_1_3.jpg"
 		},
 		{
 			"id": 13,
 			"name": "Coca Cola Zero Can 330ml",
 			"brand": "The Coca-Cola Company",
-			"imageurl": "https://myholyperogy.com/wp-content/uploads/2019/06/coca-cola-zero-1.jpg"
+			"imgUrl": "https://myholyperogy.com/wp-content/uploads/2019/06/coca-cola-zero-1.jpg"
 		},
 		{
 			"id": 14,
 			"name": "Coca Cola Diet Can 330ml",
 			"brand": "The Coca-Cola Company",
-			"imageurl": "https://images-na.ssl-images-amazon.com/images/I/41AApQgk9%2BL.jpg"
+			"imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41AApQgk9%2BL.jpg"
 		},
 		{
 			"id": 15,
 			"name": "Coca Cola Original Can 330ml",
 			"brand": "The Coca-Cola Company",
-			"imageurl": "https://syldonfoods.co.uk/wp-content/uploads/2019/10/coca-cola.png"
+			"imgUrl": "https://syldonfoods.co.uk/wp-content/uploads/2019/10/coca-cola.png"
 		},
 		{
 			"id": 16,
 			"name": "Maggie Veg Atta Noodles 70gm",
 			"brand": "Nestle",
-			"imageurl": "https://res.sastasundar.com/incom/images/product/Maggi-Masala-Veg-Atta-Noodles-1560251060-10061481-1.jpg"
+			"imgUrl": "https://res.sastasundar.com/incom/images/product/Maggi-Masala-Veg-Atta-Noodles-1560251060-10061481-1.jpg"
 		},
 		{
 			"id": 17,
 			"name": "Maggie Oats Noodles 70gm",
 			"brand": "Nestle",
-			"imageurl": "https://www.truebuyz.com/wp-content/uploads/2019/01/maggi-oats_2.jpg"
+			"imgUrl": "https://www.truebuyz.com/wp-content/uploads/2019/01/maggi-oats_2.jpg"
 		},
 		{
 			"id": 18,
 			"name": "Good Day Cookies Butter 100gm",
 			"brand": "Britannia",
-			"imageurl": "http://amasauda.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/r/britannia_good_day_butter_cookies.jpg"
+			"imgUrl": "http://amasauda.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/r/britannia_good_day_butter_cookies.jpg"
 		},
 		{
 			"id": 19,
 			"name": "Good Day Cookies Cashew 100gm",
 			"brand": "Britannia",
-			"imageurl": "https://images-na.ssl-images-amazon.com/images/I/61l8i7feJeL._SL1000_.jpg"
+			"imgUrl": "https://images-na.ssl-images-amazon.com/images/I/61l8i7feJeL._SL1000_.jpg"
 		},
 		{
 			"id": 20,
 			"name": "Good Day Cookies Chocolate Chip 100gm",
 			"brand": "Britannia",
-			"imageurl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
+			"imgUrl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
 		}
 	],
 	"store": [
@@ -182,25 +182,25 @@
 			"vendorId": 11,
 			"vendorName": "More Store",
 			"vendorDescription": "Store for daily Groceries",
-			"vendorImageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
+			"vendorimgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
 		},
 		{
 			"vendorId": 12,
 			"vendorName": "Apollo Pharmacy",
 			"vendorDescription": "Store for medicines and health related products",
-			"vendorImageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.png"
+			"vendorimgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.png"
 		},
 		{
 			"vendorId": 13,
 			"vendorName": "D-Mart",
 			"vendorDescription": "Store for household items and groceries",
-			"vendorImageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
+			"vendorimgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
 		},
 		{
 			"vendorId": 14,
 			"vendorName": "Star Bazaar",
 			"vendorDescription": "Store for household items and groceries",
-			"vendorImageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
+			"vendorimgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
 		}
 	]
 }
