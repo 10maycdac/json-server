@@ -52,6 +52,59 @@
 			]
 		}
 	],
+	"ongoingOrders": [
+		{
+			"id": 3,
+			"userId": 101,
+			"orderDate": "26 / 1 / 2020",
+			"status": "delivered",
+			"shippedTo": "John Doe",
+			"products": [
+				{
+					"id": 15,
+					"name": "Coca Cola Original Can 330ml",
+					"quantity": 2,
+					"price": 40,
+					"brand": "The Coca-Cola Company",
+					"imageurl": "https://syldonfoods.co.uk/wp-content/uploads/2019/10/coca-cola.png"
+				},
+				{
+					"id": 16,
+					"name": "Maggie Veg Atta Noodles 70gm",
+					"brand": "Nestle",
+					"quantity": 2,
+					"price": 20,
+					"imageurl": "https://res.sastasundar.com/incom/images/product/Maggi-Masala-Veg-Atta-Noodles-1560251060-10061481-1.jpg"
+				}
+			]
+		},
+
+		{
+			"id": 4,
+			"userId": 111,
+			"orderDate": "26 / 1 / 2020",
+			"status": "delivered",
+			"shippedTo": "Jane Doe",
+			"products": [
+				{
+					"id": 13,
+					"name": "Coca Cola Zero Can 330ml",
+					"brand": "The Coca-Cola Company",
+					"quantity": 5,
+					"price": 60,
+					"imageurl": "https://myholyperogy.com/wp-content/uploads/2019/06/coca-cola-zero-1.jpg"
+				},
+				{
+					"id": 20,
+					"name": "Good Day Cookies Chocolate Chip 100gm",
+					"brand": "Britannia",
+					"quantity": 20,
+					"price": 10,
+					"imageurl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
+				}
+			]
+		}
+	],
 	"users": [
 		{
 			"id": 101,
