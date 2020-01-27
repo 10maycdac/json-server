@@ -14,6 +14,7 @@
 					"category": "Snacks",
 					"description": "Cookies Cashew 100gm",
 					"price": 25,
+					"quantity": 5,
 					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-cashew.png"
 				},
 				{
@@ -23,6 +24,7 @@
 					"category": "Beverages",
 					"description": "Can 330ml",
 					"price": 35,
+					"quantity": 3,
 					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-zero.png"
 				}
 			]
@@ -42,6 +44,7 @@
 					"category": "Snacks",
 					"description": "Cookies Butter 100gm",
 					"price": 20,
+					"quantity": 5,
 					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-butter.png"
 				},
 				{
@@ -51,6 +54,7 @@
 					"category": "Snacks",
 					"description": "Cookies Chocolate Chip 100gm",
 					"price": 25,
+					"quantity": 7,
 					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-choco.png"
 				}
 			]
@@ -71,6 +75,7 @@
 					"category": "Snacks",
 					"description": "Veg Atta Noodles 70gm",
 					"price": 20,
+					"quantity": 10,
 					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-atta.png"
 				},
 				{
@@ -80,6 +85,7 @@
 					"category": "Snacks",
 					"description": "Oats Noodles 70gm",
 					"price": 20,
+					"quantity": 5,
 					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-oats.png"
 				}
 			]
@@ -99,6 +105,7 @@
 					"category": "Snacks",
 					"description": "Masala Noodles 70gm",
 					"price": 12,
+					"quantity": 10,
 					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-masala.png"
 				},
 				{
@@ -108,6 +115,7 @@
 					"category": "Snacks",
 					"description": "Chicken Noodles 70gm",
 					"price": 15,
+					"quantity": 5,
 					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-chicken.png"
 				}
 			]
