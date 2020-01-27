@@ -8,20 +8,22 @@
 			"shippedTo": "John Doe",
 			"products": [
 				{
-					"id": 11,
-					"name": "Maggie Masala Noodles 70gm",
-					"quantity": 2,
-					"price": 20,
-					"brand": "Nestle",
-					"imgUrl": "https://www.chainmasala.com/459-large_default/maggi-masala-noodles-70g.jpg"
+					"id": 7,
+					"name": "Good Day Cookies Cashew",
+					"brand": "Britannia",
+					"category": "Snacks",
+					"description": "Cookies Cashew 100gm",
+					"mrp": 25,
+					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-cashew.png"
 				},
 				{
-					"id": 12,
-					"name": "Maggie Chicken Noodles 70gm",
-					"brand": "Nestle",
-					"quantity": 5,
-					"price": 20,
-					"imgUrl": "https://newdaymart.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/5/05_1_3.jpg"
+					"id": 8,
+					"name": "Coca Cola Zero",
+					"brand": "The Coca-Cola Company",
+					"category": "Beverages",
+					"description": "Can 330ml",
+					"mrp": 35,
+					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-zero.png"
 				}
 			]
 		},
@@ -34,20 +36,22 @@
 			"shippedTo": "Jane Doe",
 			"products": [
 				{
-					"id": 17,
-					"name": "Maggie Oats Noodles 70gm",
-					"brand": "Nestle",
-					"quantity": 2,
-					"price": 20,
-					"imgUrl": "https://www.truebuyz.com/wp-content/uploads/2019/01/maggi-oats_2.jpg"
+					"id": 5,
+					"name": "Good Day Cookies Butter",
+					"brand": "Britannia",
+					"category": "Snacks",
+					"description": "Cookies Butter 100gm",
+					"mrp": 20,
+					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-butter.png"
 				},
 				{
-					"id": 18,
-					"name": "Good Day Cookies Butter 100gm",
+					"id": 6,
+					"name": "Good Day Cookies Chocolate Chip",
 					"brand": "Britannia",
-					"quantity": 10,
-					"price": 10,
-					"imgUrl": "http://amasauda.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/r/britannia_good_day_butter_cookies.jpg"
+					"category": "Snacks",
+					"description": "Cookies Chocolate Chip 100gm",
+					"mrp": 25,
+					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-choco.png"
 				}
 			]
 		}
@@ -61,20 +65,22 @@
 			"shippedTo": "John Doe",
 			"products": [
 				{
-					"id": 15,
-					"name": "Coca Cola Original Can 330ml",
-					"quantity": 2,
-					"price": 40,
-					"brand": "The Coca-Cola Company",
-					"imgUrl": "https://syldonfoods.co.uk/wp-content/uploads/2019/10/coca-cola.png"
+					"id": 3,
+					"name": "Maggie Veg Atta Noodles",
+					"brand": "Nestle",
+					"category": "Snacks",
+					"description": "Veg Atta Noodles 70gm",
+					"mrp": 20,
+					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-atta.png"
 				},
 				{
-					"id": 16,
-					"name": "Maggie Veg Atta Noodles 70gm",
+					"id": 4,
+					"name": "Maggie Oats Noodles",
 					"brand": "Nestle",
-					"quantity": 2,
-					"price": 20,
-					"imgUrl": "https://res.sastasundar.com/incom/images/product/Maggi-Masala-Veg-Atta-Noodles-1560251060-10061481-1.jpg"
+					"category": "Snacks",
+					"description": "Oats Noodles 70gm",
+					"mrp": 20,
+					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-oats.png"
 				}
 			]
 		},
@@ -87,20 +93,22 @@
 			"shippedTo": "Jane Doe",
 			"products": [
 				{
-					"id": 13,
-					"name": "Coca Cola Zero Can 330ml",
-					"brand": "The Coca-Cola Company",
-					"quantity": 5,
-					"price": 60,
-					"imgUrl": "https://myholyperogy.com/wp-content/uploads/2019/06/coca-cola-zero-1.jpg"
+					"id": 1,
+					"name": "Maggie Masala Noodles",
+					"brand": "Nestle",
+					"category": "Snacks",
+					"description": "Masala Noodles 70gm",
+					"mrp": 12,
+					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-masala.png"
 				},
 				{
-					"id": 20,
-					"name": "Good Day Cookies Chocolate Chip 100gm",
-					"brand": "Britannia",
-					"quantity": 20,
-					"price": 10,
-					"imgUrl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
+					"id": 2,
+					"name": "Maggie Chicken Noodles",
+					"brand": "Nestle",
+					"category": "Snacks",
+					"description": "Chicken Noodles 70gm",
+					"mrp": 15,
+					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-chicken.png"
 				}
 			]
 		}
@@ -117,90 +125,126 @@
 	],
 	"product": [
 		{
-			"id": 11,
-			"name": "Maggie Masala Noodles 70gm",
+			"id": 1,
+			"name": "Maggie Masala Noodles",
 			"brand": "Nestle",
-			"imgUrl": "https://www.chainmasala.com/459-large_default/maggi-masala-noodles-70g.jpg"
+			"category": "Snacks",
+			"description": "Masala Noodles 70gm",
+			"mrp": 12,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-masala.png"
 		},
 		{
-			"id": 12,
-			"name": "Maggie Chicken Noodles 70gm",
+			"id": 2,
+			"name": "Maggie Chicken Noodles",
 			"brand": "Nestle",
-			"imgUrl": "https://newdaymart.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/5/05_1_3.jpg"
+			"category": "Snacks",
+			"description": "Chicken Noodles 70gm",
+			"mrp": 15,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-chicken.png"
 		},
 		{
-			"id": 13,
-			"name": "Coca Cola Zero Can 330ml",
-			"brand": "The Coca-Cola Company",
-			"imgUrl": "https://myholyperogy.com/wp-content/uploads/2019/06/coca-cola-zero-1.jpg"
-		},
-		{
-			"id": 14,
-			"name": "Coca Cola Diet Can 330ml",
-			"brand": "The Coca-Cola Company",
-			"imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41AApQgk9%2BL.jpg"
-		},
-		{
-			"id": 15,
-			"name": "Coca Cola Original Can 330ml",
-			"brand": "The Coca-Cola Company",
-			"imgUrl": "https://syldonfoods.co.uk/wp-content/uploads/2019/10/coca-cola.png"
-		},
-		{
-			"id": 16,
-			"name": "Maggie Veg Atta Noodles 70gm",
+			"id": 3,
+			"name": "Maggie Veg Atta Noodles",
 			"brand": "Nestle",
-			"imgUrl": "https://res.sastasundar.com/incom/images/product/Maggi-Masala-Veg-Atta-Noodles-1560251060-10061481-1.jpg"
+			"category": "Snacks",
+			"description": "Veg Atta Noodles 70gm",
+			"mrp": 20,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-atta.png"
 		},
 		{
-			"id": 17,
-			"name": "Maggie Oats Noodles 70gm",
+			"id": 4,
+			"name": "Maggie Oats Noodles",
 			"brand": "Nestle",
-			"imgUrl": "https://www.truebuyz.com/wp-content/uploads/2019/01/maggi-oats_2.jpg"
+			"category": "Snacks",
+			"description": "Oats Noodles 70gm",
+			"mrp": 20,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-oats.png"
 		},
 		{
-			"id": 18,
-			"name": "Good Day Cookies Butter 100gm",
+			"id": 5,
+			"name": "Good Day Cookies Butter",
 			"brand": "Britannia",
-			"imgUrl": "http://amasauda.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/r/britannia_good_day_butter_cookies.jpg"
+			"category": "Snacks",
+			"description": "Cookies Butter 100gm",
+			"mrp": 20,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-butter.png"
 		},
 		{
-			"id": 19,
-			"name": "Good Day Cookies Cashew 100gm",
+			"id": 6,
+			"name": "Good Day Cookies Chocolate Chip",
 			"brand": "Britannia",
-			"imgUrl": "https://images-na.ssl-images-amazon.com/images/I/61l8i7feJeL._SL1000_.jpg"
+			"category": "Snacks",
+			"description": "Cookies Chocolate Chip 100gm",
+			"mrp": 25,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-choco.png"
 		},
 		{
-			"id": 20,
-			"name": "Good Day Cookies Chocolate Chip 100gm",
+			"id": 7,
+			"name": "Good Day Cookies Cashew",
 			"brand": "Britannia",
-			"imgUrl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
+			"category": "Snacks",
+			"description": "Cookies Cashew 100gm",
+			"mrp": 25,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-cashew.png"
+		},
+		{
+			"id": 8,
+			"name": "Coca Cola Zero",
+			"brand": "The Coca-Cola Company",
+			"category": "Beverages",
+			"description": "Can 330ml",
+			"mrp": 35,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-zero.png"
+		},
+		{
+			"id": 9,
+			"name": "Coca Cola Diet",
+			"brand": "The Coca-Cola Company",
+			"category": "Beverages",
+			"description": "Can 330ml",
+			"mrp": 35,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-diet.png"
+		},
+		{
+			"id": 10,
+			"name": "Coca Cola Original",
+			"brand": "The Coca-Cola Company",
+			"category": "Beverages",
+			"description": "Can 330ml",
+			"mrp": 35,
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-original.png"
 		}
 	],
 	"store": [
 		{
-			"vendorId": 11,
-			"vendorName": "More Store",
-			"vendorDescription": "Store for daily Groceries",
-			"vendorimgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
+			"id": 1,
+			"name": "More Store",
+			"description": "Daily Groceries",
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
 		},
 		{
-			"vendorId": 12,
-			"vendorName": "Apollo Pharmacy",
-			"vendorDescription": "Store for medicines and health related products",
-			"vendorimgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.png"
+			"id": 2,
+			"name": "Apollo Pharmacy",
+			"description": "Medicines and health related products",
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.png"
 		},
 		{
-			"vendorId": 13,
-			"vendorName": "D-Mart",
-			"vendorDescription": "Store for household items and groceries",
-			"vendorimgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
+			"id": 3,
+			"name": "D-Mart",
+			"description": "Household items and groceries",
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
 		},
 		{
-			"vendorId": 14,
-			"vendorName": "Star Bazaar",
-			"vendorDescription": "Store for household items and groceries",
-			"vendorimgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
+			"id": 4,
+			"name": "Star Bazaar",
+			"description": "Household items and groceries",
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
+		},
+		{
+			"id": 5,
+			"name": "Reliance Smart",
+			"description": "Household items and groceries",
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/dd7f68c90427853a0c31493eeb8951d36d3e8f4b/src/assets/images/store/smart.png"
 		}
 	]
 }
