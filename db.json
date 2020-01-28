@@ -1,5 +1,5 @@
 {
-	"pastOrders": [
+	"orders": [
 		{
 			"id": 1,
 			"userId": 101,
@@ -58,9 +58,7 @@
 					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-choco.png"
 				}
 			]
-		}
-	],
-	"ongoingOrders": [
+		},
 		{
 			"id": 3,
 			"userId": 101,
