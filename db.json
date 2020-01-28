@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"userId": 101,
-			"orderDate": "27 / 1 / 2020",
+			"orderDate": "2020/1/ 27",
 			"status": "delivered",
 			"shippedTo": "John Doe",
 			"products": [
@@ -33,7 +33,7 @@
 		{
 			"id": 2,
 			"userId": 111,
-			"orderDate": "25 / 1 / 2020",
+			"orderDate": "2020/1/25",
 			"status": "delivered",
 			"shippedTo": "Jane Doe",
 			"products": [
@@ -62,7 +62,7 @@
 		{
 			"id": 3,
 			"userId": 101,
-			"orderDate": "28 / 1 / 2020",
+			"orderDate": "2020/1/28",
 			"status": "confirmed",
 			"shippedTo": "John Doe",
 			"products": [
@@ -92,7 +92,7 @@
 		{
 			"id": 4,
 			"userId": 111,
-			"orderDate": "28 / 1 / 2020",
+			"orderDate": "2020/1/28",
 			"status": "confirmed",
 			"shippedTo": "Jane Doe",
 			"products": [
