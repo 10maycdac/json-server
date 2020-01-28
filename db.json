@@ -3,19 +3,21 @@
 		{
 			"id": 1,
 			"userId": 101,
+			"vendorId": 3,
 			"orderDate": "2020/1/ 27",
 			"status": "delivered",
 			"shippedTo": "John Doe",
 			"products": [
 				{
-					"id": 7,
-					"name": "Good Day Cookies Cashew",
-					"brand": "Britannia",
-					"category": "Snacks",
-					"description": "Cookies Cashew 100gm",
+					"id": 9,
+					"name": "Coca Cola Diet",
+					"brand": "The Coca-Cola Company",
+					"category": "Beverages",
+					"description": "Can 330ml",
+					"mrp": 35,
 					"price": 25,
 					"quantity": 5,
-					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-cashew.png"
+					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-diet.png"
 				},
 				{
 					"id": 8,
@@ -33,6 +35,7 @@
 		{
 			"id": 2,
 			"userId": 111,
+			"vendorId": 2,
 			"orderDate": "2020/1/25",
 			"status": "delivered",
 			"shippedTo": "Jane Doe",
@@ -62,6 +65,7 @@
 		{
 			"id": 3,
 			"userId": 101,
+			"vendorId": 1,
 			"orderDate": "2020/1/28",
 			"status": "confirmed",
 			"shippedTo": "John Doe",
@@ -92,6 +96,7 @@
 		{
 			"id": 4,
 			"userId": 111,
+			"vendorId": 1,
 			"orderDate": "2020/1/28",
 			"status": "confirmed",
 			"shippedTo": "Jane Doe",
@@ -226,31 +231,31 @@
 			"id": 1,
 			"name": "More Store",
 			"description": "Daily Groceries",
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
 		},
 		{
 			"id": 2,
 			"name": "Apollo Pharmacy",
 			"description": "Medicines and health related products",
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.png"
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.png"
 		},
 		{
 			"id": 3,
 			"name": "D-Mart",
 			"description": "Household items and groceries",
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
 		},
 		{
 			"id": 4,
 			"name": "Star Bazaar",
 			"description": "Household items and groceries",
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
 		},
 		{
 			"id": 5,
 			"name": "Reliance Smart",
 			"description": "Household items and groceries",
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/dd7f68c90427853a0c31493eeb8951d36d3e8f4b/src/assets/images/store/smart.png"
+			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/dd7f68c90427853a0c31493eeb8951d36d3e8f4b/src/assets/images/store/smart.png"
 		}
 	]
 }
