@@ -1,261 +1,260 @@
 {
 	"orders": [
 		{
-			"id": 1,
-			"userId": 101,
-			"vendorId": 3,
-			"orderDate": "2020/1/ 27",
-			"status": "delivered",
+			"id"       : 1,
+			"userId"   : 101,
+			"vendorId" : 3,
+			"orderDate": "2020/1/27",
+			"status"   : "delivered",
 			"shippedTo": "John Doe",
-			"products": [
+			"products" : [
 				{
-					"id": 9,
-					"name": "Coca Cola Diet",
-					"brand": "The Coca-Cola Company",
-					"category": "Beverages",
+					"id"         : 9,
+					"name"       : "Coca Cola Diet",
+					"brand"      : "The Coca-Cola Company",
+					"category"   : "Beverages",
 					"description": "Can 330ml",
-					"mrp": 35,
-					"price": 25,
-					"quantity": 5,
-					"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-diet.png"
+					"vendorPrice": 25,
+					"quantity"   : 5,
+					"imageUrl"   : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-diet.png"
 				},
 				{
-					"id": 8,
-					"name": "Coca Cola Zero",
-					"brand": "The Coca-Cola Company",
-					"category": "Beverages",
+					"id"         : 8,
+					"name"       : "Coca Cola Zero",
+					"brand"      : "The Coca-Cola Company",
+					"category"   : "Beverages",
 					"description": "Can 330ml",
-					"price": 35,
-					"quantity": 3,
-					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-zero.png"
+					"vendorPrice": 35,
+					"quantity"   : 3,
+					"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-zero.png"
 				}
 			]
 		},
 
 		{
-			"id": 2,
-			"userId": 111,
-			"vendorId": 2,
+			"id"       : 2,
+			"userId"   : 111,
+			"vendorId" : 2,
 			"orderDate": "2020/1/25",
-			"status": "delivered",
+			"status"   : "delivered",
 			"shippedTo": "Jane Doe",
-			"products": [
+			"products" : [
 				{
-					"id": 5,
-					"name": "Good Day Cookies Butter",
-					"brand": "Britannia",
-					"category": "Snacks",
+					"id"         : 5,
+					"name"       : "Good Day Cookies Butter",
+					"brand"      : "Britannia",
+					"category"   : "Snacks",
 					"description": "Cookies Butter 100gm",
-					"price": 20,
-					"quantity": 5,
-					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-butter.png"
+					"vendorPrice": 20,
+					"quantity"   : 5,
+					"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-butter.png"
 				},
 				{
-					"id": 6,
-					"name": "Good Day Cookies Chocolate Chip",
-					"brand": "Britannia",
-					"category": "Snacks",
+					"id"         : 6,
+					"name"       : "Good Day Cookies Chocolate Chip",
+					"brand"      : "Britannia",
+					"category"   : "Snacks",
 					"description": "Cookies Chocolate Chip 100gm",
-					"price": 25,
-					"quantity": 7,
-					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-choco.png"
+					"vendorPrice": 25,
+					"quantity"   : 7,
+					"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-choco.png"
 				}
 			]
 		},
 		{
-			"id": 3,
-			"userId": 101,
-			"vendorId": 1,
+			"id"       : 3,
+			"userId"   : 101,
+			"vendorId" : 1,
 			"orderDate": "2020/1/28",
-			"status": "confirmed",
+			"status"   : "confirmed",
 			"shippedTo": "John Doe",
-			"products": [
+			"products" : [
 				{
-					"id": 3,
-					"name": "Maggie Veg Atta Noodles",
-					"brand": "Nestle",
-					"category": "Snacks",
+					"id"         : 3,
+					"name"       : "Maggie Veg Atta Noodles",
+					"brand"      : "Nestle",
+					"category"   : "Snacks",
 					"description": "Veg Atta Noodles 70gm",
-					"price": 20,
-					"quantity": 10,
-					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-atta.png"
+					"vendorPrice": 20,
+					"quantity"   : 10,
+					"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-atta.png"
 				},
 				{
-					"id": 4,
-					"name": "Maggie Oats Noodles",
-					"brand": "Nestle",
-					"category": "Snacks",
+					"id"         : 4,
+					"name"       : "Maggie Oats Noodles",
+					"brand"      : "Nestle",
+					"category"   : "Snacks",
 					"description": "Oats Noodles 70gm",
-					"price": 20,
-					"quantity": 5,
-					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-oats.png"
+					"vendorPrice": 20,
+					"quantity"   : 5,
+					"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-oats.png"
 				}
 			]
 		},
 
 		{
-			"id": 4,
-			"userId": 111,
-			"vendorId": 1,
+			"id"       : 4,
+			"userId"   : 111,
+			"vendorId" : 1,
 			"orderDate": "2020/1/28",
-			"status": "confirmed",
+			"status"   : "confirmed",
 			"shippedTo": "Jane Doe",
-			"products": [
+			"products" : [
 				{
-					"id": 1,
-					"name": "Maggie Masala Noodles",
-					"brand": "Nestle",
-					"category": "Snacks",
+					"id"         : 1,
+					"name"       : "Maggie Masala Noodles",
+					"brand"      : "Nestle",
+					"category"   : "Snacks",
 					"description": "Masala Noodles 70gm",
-					"price": 12,
-					"quantity": 10,
-					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-masala.png"
+					"vendorPrice": 12,
+					"quantity"   : 10,
+					"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-masala.png"
 				},
 				{
-					"id": 2,
-					"name": "Maggie Chicken Noodles",
-					"brand": "Nestle",
-					"category": "Snacks",
+					"id"         : 2,
+					"name"       : "Maggie Chicken Noodles",
+					"brand"      : "Nestle",
+					"category"   : "Snacks",
 					"description": "Chicken Noodles 70gm",
-					"price": 15,
-					"quantity": 5,
-					"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-chicken.png"
+					"vendorPrice": 15,
+					"quantity"   : 5,
+					"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-chicken.png"
 				}
 			]
 		}
 	],
 	"users": [
 		{
-			"id": 101,
+			"id"  : 101,
 			"name": "John Doe"
 		},
 		{
-			"id": 111,
+			"id"  : 111,
 			"name": "Jane Doe"
 		}
 	],
 	"product": [
 		{
-			"id": 1,
-			"name": "Maggie Masala Noodles",
-			"brand": "Nestle",
-			"category": "Snacks",
+			"id"         : 1,
+			"name"       : "Maggie Masala Noodles",
+			"brand"      : "Nestle",
+			"category"   : "Snacks",
 			"description": "Masala Noodles 70gm",
-			"price": 12,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-masala.png"
+			"price"      : 12,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-masala.png"
 		},
 		{
-			"id": 2,
-			"name": "Maggie Chicken Noodles",
-			"brand": "Nestle",
-			"category": "Snacks",
+			"id"         : 2,
+			"name"       : "Maggie Chicken Noodles",
+			"brand"      : "Nestle",
+			"category"   : "Snacks",
 			"description": "Chicken Noodles 70gm",
-			"price": 15,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-chicken.png"
+			"price"      : 15,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-chicken.png"
 		},
 		{
-			"id": 3,
-			"name": "Maggie Veg Atta Noodles",
-			"brand": "Nestle",
-			"category": "Snacks",
+			"id"         : 3,
+			"name"       : "Maggie Veg Atta Noodles",
+			"brand"      : "Nestle",
+			"category"   : "Snacks",
 			"description": "Veg Atta Noodles 70gm",
-			"price": 20,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-atta.png"
+			"price"      : 20,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-atta.png"
 		},
 		{
-			"id": 4,
-			"name": "Maggie Oats Noodles",
-			"brand": "Nestle",
-			"category": "Snacks",
+			"id"         : 4,
+			"name"       : "Maggie Oats Noodles",
+			"brand"      : "Nestle",
+			"category"   : "Snacks",
 			"description": "Oats Noodles 70gm",
-			"price": 20,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-oats.png"
+			"price"      : 20,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/maggie-oats.png"
 		},
 		{
-			"id": 5,
-			"name": "Good Day Cookies Butter",
-			"brand": "Britannia",
-			"category": "Snacks",
+			"id"         : 5,
+			"name"       : "Good Day Cookies Butter",
+			"brand"      : "Britannia",
+			"category"   : "Snacks",
 			"description": "Cookies Butter 100gm",
-			"price": 20,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-butter.png"
+			"price"      : 20,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-butter.png"
 		},
 		{
-			"id": 6,
-			"name": "Good Day Cookies Chocolate Chip",
-			"brand": "Britannia",
-			"category": "Snacks",
+			"id"         : 6,
+			"name"       : "Good Day Cookies Chocolate Chip",
+			"brand"      : "Britannia",
+			"category"   : "Snacks",
 			"description": "Cookies Chocolate Chip 100gm",
-			"price": 25,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-choco.png"
+			"price"      : 25,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-choco.png"
 		},
 		{
-			"id": 7,
-			"name": "Good Day Cookies Cashew",
-			"brand": "Britannia",
-			"category": "Snacks",
+			"id"         : 7,
+			"name"       : "Good Day Cookies Cashew",
+			"brand"      : "Britannia",
+			"category"   : "Snacks",
 			"description": "Cookies Cashew 100gm",
-			"price": 25,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-cashew.png"
+			"price"      : 25,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/cookie-cashew.png"
 		},
 		{
-			"id": 8,
-			"name": "Coca Cola Zero",
-			"brand": "The Coca-Cola Company",
-			"category": "Beverages",
+			"id"         : 8,
+			"name"       : "Coca Cola Zero",
+			"brand"      : "The Coca-Cola Company",
+			"category"   : "Beverages",
 			"description": "Can 330ml",
-			"price": 35,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-zero.png"
+			"price"      : 35,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-zero.png"
 		},
 		{
-			"id": 9,
-			"name": "Coca Cola Diet",
-			"brand": "The Coca-Cola Company",
-			"category": "Beverages",
+			"id"         : 9,
+			"name"       : "Coca Cola Diet",
+			"brand"      : "The Coca-Cola Company",
+			"category"   : "Beverages",
 			"description": "Can 330ml",
-			"price": 35,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-diet.png"
+			"price"      : 35,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-diet.png"
 		},
 		{
-			"id": 10,
-			"name": "Coca Cola Original",
-			"brand": "The Coca-Cola Company",
-			"category": "Beverages",
+			"id"         : 10,
+			"name"       : "Coca Cola Original",
+			"brand"      : "The Coca-Cola Company",
+			"category"   : "Beverages",
 			"description": "Can 330ml",
-			"price": 35,
-			"imgUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-original.png"
+			"price"      : 35,
+			"imgUrl"     : "https://raw.githubusercontent.com/thelocalite/localite-ng/1cd2bdb4345c58f002b0e77dbd239704c5f6cf37/src/assets/images/product/coke-original.png"
 		}
 	],
 	"store": [
 		{
-			"id": 1,
-			"name": "More Store",
+			"id"         : 1,
+			"name"       : "More Store",
 			"description": "Daily Groceries",
-			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
+			"imageUrl"   : "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
 		},
 		{
-			"id": 2,
-			"name": "Apollo Pharmacy",
+			"id"         : 2,
+			"name"       : "Apollo Pharmacy",
 			"description": "Medicines and health related products",
-			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.png"
+			"imageUrl"   : "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.png"
 		},
 		{
-			"id": 3,
-			"name": "D-Mart",
+			"id"         : 3,
+			"name"       : "D-Mart",
 			"description": "Household items and groceries",
-			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
+			"imageUrl"   : "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
 		},
 		{
-			"id": 4,
-			"name": "Star Bazaar",
+			"id"         : 4,
+			"name"       : "Star Bazaar",
 			"description": "Household items and groceries",
-			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
+			"imageUrl"   : "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
 		},
 		{
-			"id": 5,
-			"name": "Reliance Smart",
+			"id"         : 5,
+			"name"       : "Reliance Smart",
 			"description": "Household items and groceries",
-			"imageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/dd7f68c90427853a0c31493eeb8951d36d3e8f4b/src/assets/images/store/smart.png"
+			"imageUrl"   : "https://raw.githubusercontent.com/thelocalite/localite-ng/dd7f68c90427853a0c31493eeb8951d36d3e8f4b/src/assets/images/store/smart.png"
 		}
 	]
 }
